@@ -1,0 +1,79 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+body {
+   
+    background-color: rgb(180, 180, 231);
+    font: 15pt arial;
+    margin: auto;
+    min-width: 300px;
+    background-attachment: fixed;
+    text-align: justify;
+    
+   
+   
+   
+    
+    
+
+}
+
+
+header {
+    color: white;
+    text-align: center;
+    
+
+
+}
+
+
+
+p{
+    text-align: center;
+   line-height: 4em;
+}
+
+div{
+    text-align: center;
+    
+
+   
+}
+
+
+    
+
+
+
+
+
+
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+   
+    box-shadow: 3px  3px 10px rgba(0, 0, 0, 0.219);
+    
+
+
+}
+
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+
+
+}
